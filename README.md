@@ -1,4 +1,4 @@
-# WARP Plus Key Collector
+# WARP+ Key Collector
 
 This repository contains a Python notebook for collecting and organizing keys from various Telegram channels related to WARP Plus. The tool utilizes web scraping techniques to extract keys and their associated timestamps from specified Telegram pages.
 
